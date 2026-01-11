@@ -148,7 +148,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## Contact
 
-[Ayush Sahu] - [ayushsahu1430@gmail.com / https://www.linkedin.com/in/ayush-sahu1430/]
+[Aishwarya Santosh Shinde] - [aishwaryash880@gmail.com / https://www.linkedin.com/in/aishwarya-shinde-100164377/]
 
 ## Acknowledgements
 
